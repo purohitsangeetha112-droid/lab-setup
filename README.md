@@ -1,7 +1,3 @@
-Yes bro — you want a **proper complete GitHub README**, not just the commands. It should look like a real lab/project repository: **title → introduction → objectives → requirements → setup → VirtualBox/NAT Network → Kali configuration → testing → evidence/screenshots → troubleshooting → conclusion → references**.
-
-Here is a full version you can paste into `README.md`:
-
 # Kali Linux Network Configuration Lab
 
 A step-by-step practical lab for setting up a Kali Linux virtual machine in VirtualBox, configuring a NAT Network, assigning a static IP address, configuring the default gateway, and verifying network and DNS connectivity.
