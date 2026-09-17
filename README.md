@@ -176,6 +176,7 @@ Name: <Created NAT Network>
 Make sure the network adapter is enabled.
 
 Save the settings.
+<img width="1920" height="1020" alt="starting" src="https://github.com/user-attachments/assets/145b1e26-a55e-4877-9498-33b5aaa3505c" />
 
 ---
 
@@ -202,6 +203,7 @@ ifconfig
 The `eth0` interface should be available.
 
 Initially, the interface may not have an IPv4 address assigned.
+<img width="972" height="597" alt="nat network" src="https://github.com/user-attachments/assets/50d4ffcf-0711-43f1-b92d-f66f65009128" />
 
 ---
 
@@ -268,6 +270,7 @@ The important entry is:
 ```
 
 This confirms that `10.0.0.1` is configured as the default gateway.
+<img width="1920" height="922" alt="ip addr" src="https://github.com/user-attachments/assets/877f924b-b6f5-465b-a578-35b1f80bc732" />
 
 ---
 
@@ -308,6 +311,7 @@ Expected result:
 ```
 
 Successful replies confirm that the system can reach an external network.
+<img width="1920" height="923" alt="ping" src="https://github.com/user-attachments/assets/f3cf1ff5-ea4d-44d5-9c0f-9a714368f4c5" />
 
 ---
 
@@ -328,6 +332,7 @@ Expected result:
 ```text
 4 packets transmitted, 4 received, 0% packet loss
 ```
+<img width="1920" height="923" alt="ping2" src="https://github.com/user-attachments/assets/65cbe9ae-87ee-49d3-b202-f36d54650eb6" />
 
 ---
 
